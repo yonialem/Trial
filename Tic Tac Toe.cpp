@@ -23,6 +23,7 @@ int main()
     cout<<endl<<"        ->just enter the numeric value of the grid you want to move into\n        using the reference table";
     cout<<endl<<"        ->player one takes \"X\"";
     
+    cout<<"\n";
 	cout<<endl<<endl<<endl<<endl;
     cout<<"          #     #     "<<endl;
     cout<<"       "<<tic[0]<<"  #  "<<tic[1]<<"  #  "<<tic[2]<<endl;
